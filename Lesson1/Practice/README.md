@@ -16,3 +16,30 @@ Lesson 1 Topics:
 14. Data Extraction
 15. Subsetting
 16. Array
+
+---
+
+Functions Used:
+
+c()
+cat()
+is.vector()
+names()
+str()
+sequence()
+seq()
+rep()
+list()
+length()
+is.list()
+matrix()
+rbind()
+cbind()
+data.frame()
+rm()
+array()
+
+---
+
+Operator Used:
+Colon Operator (:)
