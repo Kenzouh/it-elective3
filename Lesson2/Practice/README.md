@@ -33,3 +33,22 @@ Lesson 2 Topics:
 29. Sequence
 30. Matrix
 31. Remove
+
+---
+
+Functions Used:
+
+head()
+tail()
+library()
+filter()
+subset()
+order()
+is.na()
+na.omit()
+View()
+any()
+mutate()
+class()
+typeof()
+sum()
