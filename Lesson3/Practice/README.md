@@ -6,3 +6,18 @@ Lesson 3 Topics:
 4. Global Regular Expression
 5. Column Concatenation
 6. Sum Gross Revenue
+
+---
+
+Functions Used:
+
+data.frame()
+substr()
+list()
+unlist()
+gregexpr()
+sub()
+gsub()
+match()
+month.abb: not really a function.
+as.numeric()
