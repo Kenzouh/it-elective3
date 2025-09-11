@@ -1,4 +1,4 @@
-Lesson 1 Topics:
+# Lesson 1 Topics:
 
 1. Vector creation
 2. Data Structure
@@ -19,7 +19,7 @@ Lesson 1 Topics:
 
 ---
 
-Functions Used:
+# Functions Used:
 
 c()
 cat()
