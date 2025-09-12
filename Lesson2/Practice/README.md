@@ -1,4 +1,4 @@
-Lesson 2 Topics:
+# Lesson 2 Topics:
 
 1. Importing CSV
 2. Head
@@ -36,7 +36,7 @@ Lesson 2 Topics:
 
 ---
 
-Functions Used:
+# Functions Used:
 
 head()
 tail()
