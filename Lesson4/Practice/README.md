@@ -1,4 +1,4 @@
-Lesson 4 Topics:
+# Lesson 4 Topics:
 
 1. Measures of Central Tendency
 2. Measure of Spread
@@ -11,7 +11,7 @@ Lesson 4 Topics:
 
 ---
 
-Functions Used:
+# Functions Used:
 
 mean()
 median()
