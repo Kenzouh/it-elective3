@@ -1,4 +1,4 @@
-Lesson 3 Topics:
+# Lesson 3 Topics:
 
 1. Data Cleaning
 2. Messy Data
@@ -9,7 +9,7 @@ Lesson 3 Topics:
 
 ---
 
-Functions Used:
+# Functions Used:
 
 data.frame()
 substr()
