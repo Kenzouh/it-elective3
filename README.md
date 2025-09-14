@@ -1,0 +1,1 @@
+This repository includes 4 lessons about my R Programming Language Summer Class.
