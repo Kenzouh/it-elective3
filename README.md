@@ -7,3 +7,7 @@ Lesson 1 is about the introduction of R Programming Language. In this lesson, we
 # Lesson 2
 
 Lesson 2 is about importing a .csv file, understanding the dataset, and data manipulation. In here, we get the sum, display specific values, subsetted, and omit NAs.
+
+# Lesson 3
+
+Lesson 3 is about cleaning messy data with column extraction, global regular expression, column concatenation and getting the sum.
