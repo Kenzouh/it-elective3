@@ -11,3 +11,7 @@ Lesson 2 is about importing a .csv file, understanding the dataset, and data man
 # Lesson 3
 
 Lesson 3 is about cleaning messy data with column extraction, global regular expression, column concatenation and getting the sum.
+
+# Lesson 4
+
+Lesson 4 is about Descriptive Statistics, specifically finding the Measures of Central Tendency, Measures of Spread, Percentiles & Quartiles, Matrix Stats, Skewness and Creating Plots.
