@@ -4,6 +4,29 @@ This repository includes 4 lessons about my R Programming Language Summer Class.
 
 Lesson 1 is about the introduction of R Programming Language. In this lesson, we created vectors, understanding data structure, creating sequences, concatenating strings, creating lists, matrices, data frames, subsetting and creating arrays.
 
+## Functions Used:
+
+c()
+cat()
+is.vector()
+names()
+str()
+sequence()
+seq()
+rep()
+list()
+length()
+is.list()
+matrix()
+rbind()
+cbind()
+data.frame()
+rm()
+array()
+
+## Operator Used:
+Colon Operator (:)
+
 # Lesson 2
 
 Lesson 2 is about importing a .csv file, understanding the dataset, and data manipulation. In here, we get the sum, display specific values, subsetted, and omit NAs.
