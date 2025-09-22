@@ -52,6 +52,19 @@ sum()
 
 Lesson 3 is about cleaning messy data with column extraction, global regular expression, column concatenation and getting the sum.
 
+## Functions Used:
+
+data.frame()
+substr()
+list()
+unlist()
+gregexpr()
+sub()
+gsub()
+match()
+month.abb: not really a function.
+as.numeric()
+
 # Lesson 4
 
 Lesson 4 is about Descriptive Statistics, specifically finding the Measures of Central Tendency, Measures of Spread, Percentiles & Quartiles, Matrix Stats, Skewness and Creating Plots.
