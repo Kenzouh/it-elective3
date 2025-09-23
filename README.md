@@ -68,3 +68,27 @@ as.numeric()
 # Lesson 4
 
 Lesson 4 is about Descriptive Statistics, specifically finding the Measures of Central Tendency, Measures of Spread, Percentiles & Quartiles, Matrix Stats, Skewness and Creating Plots.
+
+## Functions Used:
+
+mean()
+median()
+names()
+which()
+table()
+min()
+max()
+var()
+sd()
+quantile()
+IQR()
+as.matrix()
+colMins()
+colMaxs()
+skew()
+skewness()
+kurtosis()
+qplot()
+xlab()
+summary()
+describe()
