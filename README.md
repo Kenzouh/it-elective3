@@ -33,20 +33,20 @@ Lesson 2 is about importing a .csv file, understanding the dataset, and data man
 
 ## Functions Used:
 
-head() = for seeing the first 6 rows.
-tail() = for seeing the last 6 rows.
-library() = for loading installed packages in R.
-filter() = finds rows/columns where conditions are true.
-subset() = for creating subsets (selecting specific rows/columns).
-order() = sorts a vector, data frame, or a list.
-is.na() = checks if there are NAs.
-na.omit() = Removes NAs.
-View() = for viewing the imported .csv.
-any() = checks if there are any elements that possess the conditions stated.
-mutate() = a dplyr package function used for data manipulation.
-class() = checks what is the type of the variable.
-typeof() = returns "double" or "character" or "logical" or "integer" or "complex" or "lists".
-sum() = checks the sum.
+- head() = for seeing the first 6 rows.
+- tail() = for seeing the last 6 rows.
+- library() = for loading installed packages in R.
+- filter() = finds rows/columns where conditions are true.
+- subset() = for creating subsets (selecting specific rows/columns).
+- order() = sorts a vector, data frame, or a list.
+- is.na() = checks if there are NAs.
+- na.omit() = Removes NAs.
+- View() = for viewing the imported .csv.
+- any() = checks if there are any elements that possess the conditions stated.
+- mutate() = a dplyr package function used for data manipulation.
+- class() = checks what is the type of the variable.
+- typeof() = returns "double" or "character" or "logical" or "integer" or "complex" or "lists".
+- sum() = checks the sum.
 
 # Lesson 3
 
