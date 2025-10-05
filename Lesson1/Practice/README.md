@@ -19,27 +19,25 @@
 
 ---
 
-# Functions Used:
+## Functions Used:
 
-c()
-cat()
-is.vector()
-names()
-str()
-sequence()
-seq()
-rep()
-list()
-length()
-is.list()
-matrix()
-rbind()
-cbind()
-data.frame()
-rm()
-array()
+- **c()** = for creating vectors.
+- **cat()** = for concatenating.
+- **is.vector()** = checks if an object is a vector.
+- **names()** = sets the names of an object.
+- **str()** = checks the structure of an object.
+- **sequence()** = creates sequences.
+- **seq()** = creates sequences with more modifications (from, to, by)
+- **rep()** = repeats elements.
+- **list()** = creates a list.
+- **length()** = checks the length of an object.
+- **is.list()** = checks if an object is a list.
+- **matrix()** = creates a matrix.
+- **rbind()** = joins multiple rows in a single batch.
+- **cbind()** = joins multiple columns in a single batch.
+- **data.frame()** = creates data frames.
+- **rm()** = removes an object in R.
+- **array()** = creates an array.
 
----
-
-Operator Used:
-Colon Operator (:)
+## Operator Used:
+- **Colon Operator (:)**
