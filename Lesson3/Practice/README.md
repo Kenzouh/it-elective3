@@ -1,11 +1,11 @@
 # Lesson 3 Topics:
 
-1. Data Cleaning
-2. Messy Data
-3. Column Extraction
-4. Global Regular Expression
-5. Column Concatenation
-6. Sum Gross Revenue
+1. Data Cleaning: removing null values and preprocessing the dataset.
+2. Messy Data: a dataset with null values and inconsistent formatting.
+3. Column Extraction: extracting specific columns.
+4. Global Regular Expression: finding the placement of specific numerical values, sometimes even replacing them.
+5. Column Concatenation: combining data from multiple columns into a single column.
+6. Sum Gross Revenue: getting the sum gross revenue.
 
 ---
 
