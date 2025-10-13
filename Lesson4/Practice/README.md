@@ -1,13 +1,15 @@
 # Lesson 4 Topics:
 
-1. Measures of Central Tendency
-2. Measure of Spread
-3. Percentile & Quartiles
-4. matrixStats
-5. Skewness, Kurtosis and Histogram
-6. Histogram
-7. Plots
-8. Graphs
+1. Measures of Central Tendency: often called averages. The most common measures of central tendency are the arithmetic mean, the median, and the mode.
+2. Measure of Spread (Measures of Dispersion): quantify how spread out or varied the data points in a dataset are
+3. Percentile & Quartiles: measures used to divide a data set.
+  3.1 Percentile: divide data into 100 equal parts.
+  3.2 Quartile: specific type of percentile that divide the data into four equal parts: the first quartile (Q1) is the 25th percentile, the second quartile (Q2) is the 50th percentile (the median), and the third quartile (Q3) is the 75th percentile.
+4. matrixStats: Functions that Apply to Rows and Columns of Matrices (and to Vectors).
+5. Skewness, Kurtosis and Histogram: A histogram visualizes data distribution, while skewness and kurtosis are numerical measures that describe its shape.
+6. Histogram: a diagram consisting of rectangles whose area is proportional to the frequency of a variable and whose width is equal to the class interval.
+7. Plots: a graphical technique for representing a data set, usually as a graph showing the relationship between two or more variables.
+8. Graphs: a diagram showing the relation between variable quantities, typically of two variables, each measured along one of a pair of axes at right angles.
 
 ---
 
